@@ -9,7 +9,8 @@
     <!-- Backend -->
     <p><strong>Backend</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
     </div>
     <!-- Frontend -->
     <p><strong>Frontend</strong></p>
@@ -22,16 +23,20 @@
     <!-- Others -->
     <p><strong>Others</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
+        <img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white"/>
+       <img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat-square&logo=ArcGIS&logoColor=white"/>
         <img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=flat-square&logo=android studio&logoColor=white">
         <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
 </div><br>
 </div>
 
-#### 📟 Contact Me 📟
+<a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyleee&layout=compact&theme=nord&hide_border=true" /></a> 
+
+## 📞 Contact 📞
+<div style="display:flex; flex-direction:row;">
   <br/>
  <a href="https://velog.io/@cutehypretty/posts">
  <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>  
   <br/>
-  <br/>
+
 
