@@ -22,9 +22,16 @@
     <!-- Others -->
     <p><strong>Others</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
+        <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
         <img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=flat-square&logo=android studio&logoColor=white">
         <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
 </div><br>
 </div>
+
+#### 📟 Contact Me 📟
+  <br/>
+ <a href="https://velog.io/@cutehypretty/posts">
+ <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>  
+  <br/>
+  <br/>
 
