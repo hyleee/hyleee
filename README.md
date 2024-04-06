@@ -1,8 +1,3 @@
- 
-<p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to%20hylee's%20github&fontSize=60&animation=fadeIn&fontAlignY=38&desc=&descAlignY=51&descAlign=62"/>
-</p>
-<br/>
 
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
@@ -31,6 +26,15 @@
 </div><br>
 </div>
 
+## 📞 Contact 📞
+<div style="display:flex; flex-direction:row;">
+  <br/>
+ <a href="https://velog.io/@cutehypretty/posts">
+ <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>  
+  <br/>
+
+ <br>
+
 <p align="center">
   <a href="https://github.com/imysh578">
     <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyleee&layout=compact&theme=nord&hide_border=true" />
@@ -40,11 +44,5 @@
   </a>
 </p>
 
-## 📞 Contact 📞
-<div style="display:flex; flex-direction:row;">
-  <br/>
- <a href="https://velog.io/@cutehypretty/posts">
- <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>  
-  <br/>
 
 
