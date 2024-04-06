@@ -11,7 +11,7 @@
     <div>
         <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"> 
         <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Mysql&logoColor=white"/></a>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" style="border-radius:10%;"/>
     </div>
     <!-- Frontend -->
     <p><strong>Frontend</strong></p>
@@ -19,7 +19,6 @@
         <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
         <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
         <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
-    
     </div>
     <!-- Others -->
     <p><strong>Others</strong></p>
@@ -32,7 +31,14 @@
 </div><br>
 </div>
 
-<a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyleee&layout=compact&theme=nord&hide_border=true" /></a> 
+<p align="center">
+  <a href="https://github.com/imysh578">
+    <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyleee&layout=compact&theme=nord&hide_border=true" />
+  </a>
+  <a href="https://solved.ac/9rooming">
+    <img align="center" style="height:180px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=9rooming" />
+  </a>
+</p>
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
