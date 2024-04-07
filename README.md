@@ -5,6 +5,7 @@
     <p><strong>Backend</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"> 
+        <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
         <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" style="border-radius:10%;"/>
     </div>
@@ -21,7 +22,6 @@
         <img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white"/>
        <img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat-square&logo=ArcGIS&logoColor=white"/>
         <img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=flat-square&logo=android studio&logoColor=white">
-        <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
         <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"> 
 </div><br>
 </div>
