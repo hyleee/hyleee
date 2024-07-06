@@ -23,7 +23,6 @@
         <img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white"/>
        <img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat-square&logo=ArcGIS&logoColor=white"/>
         <img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=flat-square&logo=android studio&logoColor=white">
-        <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"> 
 </div><br>
 </div>
 
